@@ -1,6 +1,6 @@
-# Parking_Management_System_Using_reacct.JS
+# Parking_Management_System_Using_react.JS
 
-## Deployed At: https://parking-managment-system.herokuapp.com/
+## Deployed At: https://parking-system-react-app.herokuapp.com/
 
 
 # npm start - run the webapp using Terminal Window
