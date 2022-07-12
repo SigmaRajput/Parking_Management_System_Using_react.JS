@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: cornflowerblue;
+  background-color: cyan ;
 }
 .App-header {
   height: 250px;
@@ -13,7 +13,7 @@ h1 {
   font-family: "Faster One", cursive;
   font-size: 60px;
   font-weight: lighter;
-  color: whitesmoke;
+  color: honeydew;
   padding-top: 40px;
   text-align: center;
 }
@@ -33,12 +33,12 @@ h1 {
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid green;
+  border: 2px solid navy ;
   background-color: white;
   margin: 10px 20px;
 }
 .Slot-head {
-  background-color: teal;
+  background-color: olive ;
 }
 .chkbx {
   height: 10px;
