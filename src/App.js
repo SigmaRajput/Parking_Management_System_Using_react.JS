@@ -75,6 +75,24 @@ class App extends Component {
         name: "",
         booked: false,
       },
+      
+      {
+        id: uuidv4(),
+        name: "",
+        booked: false,
+      },
+      
+      {
+        id: uuidv4(),
+        name: "",
+        booked: false,
+      },
+      
+      {
+        id: uuidv4(),
+        name: "",
+        booked: false,
+      },
 
       {
         id: uuidv4(),
